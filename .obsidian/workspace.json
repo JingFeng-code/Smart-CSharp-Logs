@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "102af46a816c067f",
+        "id": "1cc42c422adbc93a",
         "type": "tabs",
         "children": [
           {
-            "id": "443fe527777ff1d3",
+            "id": "99f6210c26b625d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "007-LINQ/007-LINQ-總覽.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "007-LINQ-總覽"
-            }
-          },
-          {
-            "id": "bfe64f321c920736",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "008-JavaScript/008.16-JS-正則表達式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "008.16-JS-正則表達式"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "歡迎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "歡迎 的反向連結"
+              "title": "反向連結"
             }
           },
           {
@@ -128,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "歡迎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "歡迎 的對外連結"
+              "title": "對外連結"
             }
           },
           {
@@ -183,44 +162,44 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "bfe64f321c920736",
+  "active": "99f6210c26b625d6",
   "lastOpenFiles": [
-    "008-JavaScript/008.17-JS-函式式編程.md",
-    "008-JavaScript/008.18-JS-框架與庫.md",
-    "005-HTML/005-HTML-總覽.md",
-    "007-LINQ/007.9-LINQ-異步查詢.md",
-    "007-LINQ/007.8-LINQ-集合操作.md",
-    "007-LINQ/007-LINQ-總覽.md",
-    "007-LINQ/007.6-LINQ-延遲載入與即時執行.md",
-    "007-LINQ/007.3-LINQ-常用操作方法.md",
-    "002-CSharp物件導向設計/002.12-CSharp-OOP-靜態類別與靜態成員.md",
-    "002-CSharp物件導向設計/002-CSharp-OOP-物件導向總覽.md",
-    "002-CSharp物件導向設計/002.1-CSharp-OOP-物件導向概念.md",
-    "002-CSharp物件導向設計/002.2-CSharp-OOP-類別與實例.md",
-    "002-CSharp物件導向設計/002.3-CSharp-OOP-建構子.md",
-    "002-CSharp物件導向設計/002.4-CSharp-OOP-封裝.md",
-    "002-CSharp物件導向設計/002.5-CSharp-OOP-繼承.md",
-    "002-CSharp物件導向設計/002.6-CSharp-OOP-多型.md",
-    "002-CSharp物件導向設計/002.7-CSharp-OOP-方法覆寫.md",
-    "002-CSharp物件導向設計/002.8-CSharp-OOP-介面.md",
-    "002-CSharp物件導向設計/002.9-CSharp-OOP-抽象類別.md",
-    "002-CSharp物件導向設計/002.10-CSharp-OOP-委派.md",
-    "002-CSharp物件導向設計/002.11-CSharp-OOP-事件驅動.md",
     "008-JavaScript/008-JS-總覽.md",
-    "008-JavaScript/008.6-JS-函式.md",
+    "001-CSharp基礎語法/001.3.a-CSharp-常用字串操作方法.md",
+    "001-CSharp基礎語法/001.2-CSharp-運算子.md",
+    "008-JavaScript/008.9-JS-DOM操作.md",
+    "008-JavaScript/008.9.a-JS-DocumentFragment.md",
+    "008-JavaScript/008.10-JS-BOM操作.md",
+    "008-JavaScript/008.11-JS-事件處理.md",
+    "008-JavaScript/008.12-JS-模組化.md",
+    "008-JavaScript/008.13-JS-異步編程.md",
+    "008-JavaScript/008.14-JS-錯誤處理.md",
+    "008-JavaScript/008.15-JS-性能優化.md",
+    "008-JavaScript/008.1-JS-基本型別.md",
+    "008-JavaScript/008.2-JS-變數與作用域.md",
+    "008-JavaScript/008.17-JS-函式式編程.md",
+    "008-JavaScript/008.16-JS-正則表達式.md",
+    "008-JavaScript/008.6.e-JS-物件導向進階.md",
     "008-JavaScript/008.6.g-JS-閉包.md",
     "008-JavaScript/008.6.f-JS-遞歸.md",
-    "008-JavaScript/008.6.e-JS-物件導向進階.md",
+    "008-JavaScript/008.6.c.a-JS-擴展建構子.md",
+    "008-JavaScript/008.6-JS-函式.md",
+    "008-JavaScript/008.0-JS-基本簡介.md",
+    "000-總覽/000-總覽.md",
+    "009-JQBS/009-JQBS-總覽.md",
+    "011-CoreMVC/011-CoreMVC-總覽.md",
+    "010-PowerBI/010-PowerBI-總覽.md",
+    "012-RESTfulAPI/012-RESTfulAPI-總覽.md",
+    "015-Angular",
+    "014-AI應用",
+    "013-AJAX",
+    "012-RESTfulAPI",
+    "011-CoreMVC",
+    "010-PowerBI",
+    "009-JQBS",
     "004-ADO.NET",
     "007-LINQ",
     "006-CSS",
-    "005-HTML",
-    "ADO.NET",
-    "007-LINQ",
-    "008-JavaScript",
-    "006-CSS",
-    "005-HTML",
-    "img",
     "img/圖片.webp"
   ]
 }
