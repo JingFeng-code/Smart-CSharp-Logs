@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1cc42c422adbc93a",
+        "id": "975b090649f8d520",
         "type": "tabs",
         "children": [
           {
-            "id": "99f6210c26b625d6",
+            "id": "dccd4001a598c73e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "008-JavaScript/04_DOM 與瀏覽器操作/008.9-JS-DOM操作.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "008.9-JS-DOM操作"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:C#",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,6 +159,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:開啟快速切換": false,
+      "smart-random-note:Open Random Note from Search": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
@@ -162,44 +167,45 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "99f6210c26b625d6",
+  "active": "dccd4001a598c73e",
   "lastOpenFiles": [
-    "008-JavaScript/008-JS-總覽.md",
-    "001-CSharp基礎語法/001.3.a-CSharp-常用字串操作方法.md",
-    "001-CSharp基礎語法/001.2-CSharp-運算子.md",
-    "008-JavaScript/008.9-JS-DOM操作.md",
-    "008-JavaScript/008.9.a-JS-DocumentFragment.md",
-    "008-JavaScript/008.10-JS-BOM操作.md",
-    "008-JavaScript/008.11-JS-事件處理.md",
-    "008-JavaScript/008.12-JS-模組化.md",
-    "008-JavaScript/008.13-JS-異步編程.md",
-    "008-JavaScript/008.14-JS-錯誤處理.md",
-    "008-JavaScript/008.15-JS-性能優化.md",
-    "008-JavaScript/008.1-JS-基本型別.md",
-    "008-JavaScript/008.2-JS-變數與作用域.md",
-    "008-JavaScript/008.17-JS-函式式編程.md",
-    "008-JavaScript/008.16-JS-正則表達式.md",
-    "008-JavaScript/008.6.e-JS-物件導向進階.md",
-    "008-JavaScript/008.6.g-JS-閉包.md",
-    "008-JavaScript/008.6.f-JS-遞歸.md",
-    "008-JavaScript/008.6.c.a-JS-擴展建構子.md",
-    "008-JavaScript/008.6-JS-函式.md",
-    "008-JavaScript/008.0-JS-基本簡介.md",
+    "008-JavaScript/04_DOM 與瀏覽器操作/008.11.b-JS-事件物件 event.md",
+    "008-JavaScript/04_DOM 與瀏覽器操作/008.11.a-JS-事件與監聽基本概念.md",
+    "008-JavaScript/04_DOM 與瀏覽器操作/008.11-JS-事件處理.md",
+    "000-總覽/008-JS-總覽.md",
+    "008-JavaScript/04_DOM 與瀏覽器操作/008.10-JS-BOM操作.md",
+    "008-JavaScript/04_DOM 與瀏覽器操作/008.9-JS-DOM操作.md",
+    "008-JavaScript/01_語法基礎/008.5-JS-流程控制.md",
+    "008-JavaScript/03_陣列、物件與標準內建物件/008.7.c-JS-String物件.md",
+    "000-總覽/000.1-全端開發學習地圖.md",
     "000-總覽/000-總覽.md",
+    "008-JavaScript.md",
+    "008-JavaScript/05_模組化與進階應用/008.20-JS-補充附錄與功能需求.md",
+    "008-JavaScript/04_DOM 與瀏覽器操作/008.11.m-JS-事件控制技巧速查表.md",
     "009-JQBS/009-JQBS-總覽.md",
-    "011-CoreMVC/011-CoreMVC-總覽.md",
     "010-PowerBI/010-PowerBI-總覽.md",
-    "012-RESTfulAPI/012-RESTfulAPI-總覽.md",
+    "007-LINQ/007.8-LINQ-集合操作.md",
+    "007-LINQ/007.9-LINQ-異步查詢.md",
+    "007-LINQ/007.10-LINQ-查詢效能與最佳實務.md",
+    "000-總覽/007-LINQ-總覽.md",
+    "007-LINQ/007.1-LINQ-基本語法與查詢.md",
+    "007-LINQ/007.7-LINQ-與資料庫整合 (Entity Framework).md",
+    "008-JavaScript/04_DOM 與瀏覽器操作/008.11.c-JS-事件委派 delegation.md",
+    "008-JavaScript/04_DOM 與瀏覽器操作/008.11.l-JS-stopPropagation 與事件流程控制.md",
+    "008-JavaScript/04_DOM 與瀏覽器操作/008.11.k-JS-事件解除與多事件綁定技巧.md",
+    "008-JavaScript/04_DOM 與瀏覽器操作/008.11.i-JS-事件綁定選項 capture.md",
+    "008-JavaScript/04_DOM 與瀏覽器操作/008.11.h-JS-事件綁定選項 once.md",
+    "008.11.g-JS-事件綁定選項 once/capture",
+    "008.11.g-JS-事件綁定選項 once",
+    "未命名.canvas",
+    "008-JavaScript/05_模組化與進階應用",
+    "008-JavaScript/04_DOM 與瀏覽器操作",
+    "008-JavaScript/03_陣列、物件與標準內建物件",
+    "008-JavaScript/02_函式與邏輯結構",
+    "008-JavaScript/01_語法基礎",
+    "未命名",
     "015-Angular",
     "014-AI應用",
-    "013-AJAX",
-    "012-RESTfulAPI",
-    "011-CoreMVC",
-    "010-PowerBI",
-    "009-JQBS",
-    "004-ADO.NET",
-    "007-LINQ",
-    "006-CSS",
     "img/圖片.webp"
   ]
 }
