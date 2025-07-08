@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5f50c4fc737f7ac8",
+        "id": "8a25aa8685aad203",
         "type": "tabs",
         "children": [
           {
-            "id": "a2f24915a284994a",
+            "id": "38de4e7a613af953",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "012-RESTfulAPI/012-RESTfulAPI-總覽.md",
+                "file": "011-CoreMVC/011.16-CoreMVC-MVC與WebAPI整合考量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "012-RESTfulAPI-總覽"
-            }
-          },
-          {
-            "id": "d8b52c5704b55e4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "011-CoreMVC/011.11-CoreMVC-效能優化與快取.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "011.11-CoreMVC-效能優化與快取"
+              "title": "011.16-CoreMVC-MVC與WebAPI整合考量"
             }
           }
         ]
@@ -182,34 +168,34 @@
       "zk-prefixer:建立新唯一筆記": false
     }
   },
-  "active": "a2f24915a284994a",
+  "active": "38de4e7a613af953",
   "lastOpenFiles": [
-    "012.5-Restful-CRUD 操作實作.md",
-    "012-RESTfulAPI/012-RESTfulAPI-總覽.md",
-    "014-AI應用/014-AI應用-總覽.md",
-    "011-CoreMVC/011.1-CoreMVC-框架介紹與專案結構.md",
-    "011-CoreMVC/011.13-CoreMVC-部署與維運.md",
-    "011-CoreMVC/011.12-CoreMVC-單元測試與自動化.md",
     "011-CoreMVC/011-CoreMVC-總覽.md",
-    "011-CoreMVC/011.10-CoreMVC-安全性與授權 (Authentication & Authorization).md",
-    "011-CoreMVC/011.11-CoreMVC-效能優化與快取.md",
-    "011-CoreMVC/011.8-CoreMVC-分層架構與專案實務設計.md",
-    "011-CoreMVC/011.9-CoreMVC-錯誤處理與中介軟體 (Middleware).md",
-    "011-CoreMVC/011.7-CoreMVC-與資料庫整合 (EF Core).md",
-    "011-CoreMVC/011.6-CoreMVC-依賴注入與服務註冊.md",
-    "011-CoreMVC/011.5-CoreMVC-表單處理與驗證.md",
-    "011-CoreMVC/011.4-CoreMVC-視圖與 Razor 語法 (View).md",
-    "011-CoreMVC/011.3-CoreMVC-模型設計與資料綁定 (Model).md",
-    "011-CoreMVC/011.2-CoreMVC-路由與控制器 (Controller).md",
+    "010-PowerBI/010.11-PowerBI-效能優化與最佳實踐.md",
+    "010-PowerBI/010.12-PowerBI-進階資料轉換與M語法.md",
+    "010-PowerBI/010.13-PowerBI-資料安全與列層級安全性 (RLS).md",
     "010-PowerBI/010.5-PowerBI-DAX 基礎語法.md",
+    "010-PowerBI/010.5.a-PowerBI-DAX 變數應用 (VAR RETURN).md",
+    "010-PowerBI/010.10-PowerBI-DAX 時間智慧函數.md",
+    "010-PowerBI/010.2-PowerBI-資料匯入與轉換.md",
+    "010-PowerBI/010.3-PowerBI-資料模型與關聯.md",
+    "010-PowerBI/010.4-PowerBI-視覺化圖表應用.md",
+    "010-PowerBI/010.6-PowerBI-互動功能與篩選器.md",
+    "010-PowerBI/010.7-PowerBI-發佈與分享報表.md",
     "010-PowerBI/010.8-PowerBI-實戰案例：銷售儀表板.md",
     "010-PowerBI/010.1-PowerBI-基本介紹與安裝.md",
     "010-PowerBI/010-PowerBI-總覽.md",
-    "010-PowerBI/010.7-PowerBI-發佈與分享報表.md",
-    "010-PowerBI/010.6-PowerBI-互動功能與篩選器.md",
-    "010-PowerBI/010.4-PowerBI-視覺化圖表應用.md",
-    "010-PowerBI/010.3-PowerBI-資料模型與關聯.md",
-    "010-PowerBI/010.2-PowerBI-資料匯入與轉換.md",
+    "010-PowerBI/010.9-PowerBI-DAX 進階計算與上下文轉換.md",
+    "011-CoreMVC/011.1-CoreMVC-框架介紹與專案結構.md",
+    "011-CoreMVC/011.16-CoreMVC-MVC與WebAPI整合考量.md",
+    "011-CoreMVC/011.12-CoreMVC-安全性與授權 (Authentication & Authorization).md",
+    "011-CoreMVC/011.5-CoreMVC-表單處理與驗證.md",
+    "014-AI應用/014-AI應用-總覽.md",
+    "011-CoreMVC/011.11-CoreMVC-錯誤處理與中介軟體 (Middleware).md",
+    "011-CoreMVC/011.13-CoreMVC-效能優化與快取.md",
+    "011-CoreMVC/011.14-CoreMVC-單元測試與自動化.md",
+    "011-CoreMVC/011.15-CoreMVC-部署與維運.md",
+    "011-CoreMVC/011.2-CoreMVC-路由與控制器 (Controller).md",
     "未命名",
     "008.11.g-JS-事件綁定選項 once/capture",
     "008.11.g-JS-事件綁定選項 once",
