@@ -26,15 +26,18 @@ summary: 本筆記系統化彙整 ASP.NET Core MVC 的核心架構、開發流�
 - [[011.5-CoreMVC-表單處理與驗證]]
 - [[011.6-CoreMVC-依賴注入與服務註冊]]
 - [[011.7-CoreMVC-與資料庫整合 (EF Core)]]
-- [[011.8-CoreMVC-非同步程式設計 (Async Await)]]
+- [[011.8-CoreMVC-分層架構與專案實務設計]]
 - [[011.9-CoreMVC-組態管理與環境設定 (Configuration)]]
-- [[011.10-CoreMVC-日誌記錄與監控 (Logging)]]
-- [[011.11-CoreMVC-錯誤處理與中介軟體 (Middleware)]]
-- [[011.12-CoreMVC-安全性與授權 (Authentication & Authorization)]]
-- [[011.13-CoreMVC-效能優化與快取]]
-- [[011.14-CoreMVC-單元測試與自動化]]
-- [[011.15-CoreMVC-部署與維運]]
-- [[011.16-CoreMVC-MVC與WebAPI整合考量]]
+- [[011.10-CoreMVC-非同步程式設計 (Async Await)]]
+- [[011.11-CoreMVC-日誌記錄與監控 (Logging)]]
+- [[011.12-CoreMVC-錯誤處理與中介軟體 (Middleware)]]
+- [[011.13-CoreMVC-安全性與授權 (Authentication & Authorization)]]
+- [[011.14-CoreMVC-效能優化與快取 (Performance Optimization & Caching)]]
+- [[011.15-CoreMVC-單元測試與自動化 (Unit Testing & Automation)]]
+- [[011.16-CoreMVC-部署與維護 (Deployment & Maintenance)]]
+- [[011.17-CoreMVC-MVC 與 WebAPI 整合考量]]
+- [[011.18-CoreMVC-前端整合與資源管理]]
+- [[011.19-CoreMVC-進階架構模式簡介]]
 
 ---
 
@@ -72,6 +75,10 @@ summary: 本筆記系統化彙整 ASP.NET Core MVC 的核心架構、開發流�
 
 - **MVC 與 WebAPI 整合考量**：MVC 與 RESTful API 設計差異、共用邏輯與資料格式處理、**API 版本控制**。
 
+- **前端整合與資源管理**：學習如何使用 **npm** 和 **Webpack/Vite** 等現代前端工具管理和打包靜態資源，優化前端資源載入。
+
+- **進階架構模式簡介**：簡要介紹 **Clean Architecture / Onion Architecture** 等分層架構思想，以及 **CQRS** 等資料流模式，為大型專案的架構設計提供高階視野。
+
 ---
 
 ## 🔁 延伸閱讀
@@ -86,8 +93,16 @@ summary: 本筆記系統化彙整 ASP.NET Core MVC 的核心架構、開發流�
 
 ## 🏆 筆記設計說明
 
-- 本結構兼顧**基礎教學**與**企業實務**，涵蓋現代 ASP.NET Core MVC 專案常見需求與最佳實踐。
+- 本結構兼顧**基礎教學**與**企業實務**，涵蓋現代 ASP.NET Core MVC 專案常見需求與最佳實踐，確保從入門到精通的完整路徑。
+
+- **強化了關鍵的基礎知識**，如專案結構中的 Properties 和 Dependencies，讓初學者能更全面地理解專案組成。
+
 - 新增了 **「非同步程式設計」、「組態管理」、「日誌記錄」** 等在現代應用開發中極為重要的主題。
-- 強化了**「視圖」和「表單處理」**部分，使其能更好地銜接前端整合。
+
+- 獨立出 **「前端整合與資源管理」** 和 **「進階架構模式簡介」**，確保涵蓋了現代 Web 開發的實務技巧和高階設計思維。
+
+- 強化了「視圖」和「表單處理」部分，使其能更好地銜接前端整合。
+
 - 獨立出 **「MVC 與 WebAPI 整合考量」**，幫助理解兩種模式的共存與選擇。
+
 - 可依需求擴充各主題細節，並搭配實作範例、錯誤排查與效能優化建議，提升查閱與應用效率。
