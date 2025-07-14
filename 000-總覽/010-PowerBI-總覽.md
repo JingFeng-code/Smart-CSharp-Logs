@@ -10,7 +10,7 @@ aliases:
   - 商業智慧工具
 created: 2025-06-24
 updated: 2025-06-24
-status: 草稿
+status: 完成
 summary: 本筆記彙整 Power BI 的基本使用方法、資料處理、視覺化技巧與 DAX 函數應用，協助快速掌握商業智慧報表製作。
 ---
 
@@ -21,7 +21,7 @@ summary: 本筆記彙整 Power BI 的基本使用方法、資料處理、視覺�
 - [[010.3-PowerBI-資料模型與關聯]]
 - [[010.4-PowerBI-視覺化圖表應用]]
 - [[010.5-PowerBI-DAX 基礎語法]]
-- [[010.5.a-PowerBI-DAX 變數應用 (VAR RETURN)]]
+	- [[010.5.a-PowerBI-DAX 變數應用 (VAR RETURN)]]
 - [[010.6-PowerBI-互動功能與篩選器]]
 - [[010.7-PowerBI-發佈與分享報表]]
 - [[010.8-PowerBI-實戰案例：銷售儀表板]]

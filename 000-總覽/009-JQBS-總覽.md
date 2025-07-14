@@ -10,7 +10,7 @@ aliases:
   - jQuery Bootstrap SweetAlert
 created: 2025-06-30
 updated: 2025-06-30
-status: 草稿
+status: 完成
 summary: 本目錄彙整前端常用工具（jQuery、Bootstrap、SweetAlert2）與 JavaScript，建立完整的學習地圖並串連各細項卡片。
 ---
 

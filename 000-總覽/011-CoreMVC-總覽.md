@@ -13,13 +13,14 @@ aliases:
   - MVC 架構
 created: 2025-07-05
 updated: 2025-07-05
-status: 草稿
+status: 完成
 summary: 本筆記系統化彙整 ASP.NET Core MVC 的核心架構、開發流程與現代實務，包括 Controller、View、Model、Routing、驗證、Razor、依賴注入、資料庫、分層設計、安全性、效能、測試與部署，並新增非同步、組態管理、日誌記錄與Web API整合等重要主題，適合作為後端開發快速查閱與整合參考。
 ---
 
 ## 📘 Core MVC 筆記索引
 
 - [[011.1-CoreMVC-框架介紹與專案結構]]
+	- [[011.1.a-CoreMVC-舊版MVC框架介紹與專案結構]]
 - [[011.2-CoreMVC-路由與控制器 (Controller)]]
 - [[011.3-CoreMVC-模型設計與資料綁定 (Model)]]
 - [[011.4-CoreMVC-視圖與 Razor 語法 (View)]]
