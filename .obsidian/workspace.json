@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7ec49a813cb8930e",
+        "id": "189a75f171447151",
         "type": "tabs",
         "children": [
           {
-            "id": "5f0966c0d033938d",
+            "id": "a9daadc5850444c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "011-CoreMVC/011.3-CoreMVC-模型設計與資料綁定 (Model).md",
+                "file": "014-AI應用/014-AI應用-總覽.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "011.3-CoreMVC-模型設計與資料綁定 (Model)"
+              "title": "014-AI應用-總覽"
             }
           }
         ]
@@ -179,34 +179,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f0966c0d033938d",
+  "active": "a9daadc5850444c5",
   "lastOpenFiles": [
-    "011-CoreMVC/011.2-CoreMVC-路由與控制器 (Controller).md",
-    "000-總覽/011-CoreMVC-總覽.md",
-    "010-PowerBI/010.4-PowerBI-視覺化圖表應用.md",
-    "005-HTML/005.3-HTML-語意標籤與結構.md",
-    "005-HTML/005.1-HTML-基本標籤.md",
-    "005-HTML/005.2-HTML-表單與輸入元件.md",
-    "005-HTML/005.4-HTML-多媒體與嵌入元素.md",
-    "900-開發工具與環境/901-Git-總覽.md",
-    "011-CoreMVC/011.19-CoreMVC-進階架構模式簡介.md",
-    "011-CoreMVC/011.18-CoreMVC-前端整合與資源管理.md",
-    "011-CoreMVC/011.17-CoreMVC-MVC 與 WebAPI 整合考量.md",
-    "011-CoreMVC/011.16-CoreMVC-部署與維護 (Deployment & Maintenance).md",
-    "011-CoreMVC/011.15-CoreMVC-單元測試與自動化 (Unit Testing & Automation).md",
-    "011-CoreMVC/011.14-CoreMVC-效能優化與快取 (Performance Optimization & Caching).md",
-    "011-CoreMVC/011.13-CoreMVC-安全性與授權 (Authentication & Authorization).md",
-    "011-CoreMVC/011.12-CoreMVC-錯誤處理與中介軟體 (Middleware).md",
-    "011-CoreMVC/011.11-CoreMVC-日誌記錄與監控 (Logging).md",
-    "011-CoreMVC/011.9-CoreMVC-組態管理與環境設定 (Configuration).md",
-    "011-CoreMVC/011.7-CoreMVC-與資料庫整合 (EF Core).md",
-    "011-CoreMVC/011.10-CoreMVC-非同步程式設計 (Async Await).md",
-    "011-CoreMVC/011.8-CoreMVC-分層架構與專案實務設計.md",
-    "011-CoreMVC/011.6-CoreMVC-依賴注入與服務註冊.md",
-    "011-CoreMVC/011.5-CoreMVC-表單處理與驗證.md",
+    "013-AJAX/013.10-Ajax-實戰案例整合.md",
+    "013-AJAX/013.9-Ajax-跨來源請求（CORS）處理.md",
+    "013-AJAX/013.8-Ajax-與 ASP.NET Core Web API 整合.md",
+    "013-AJAX/013.7-Ajax-錯誤處理與回應碼分析.md",
+    "013-AJAX/013.6-Ajax-表單送出與非同步驗證.md",
+    "013-AJAX/013.5-Ajax-處理 JSON 與回傳資料.md",
+    "013-AJAX/013.4-Ajax-jQuery AJAX 整合用法.md",
+    "013-AJAX/013.3-Ajax-Fetch API 現代寫法.md",
+    "013-AJAX/013.1-Ajax-什麼是 AJAX？.md",
+    "000-總覽/008-JS-總覽.md",
+    "013-AJAX/013.2-Ajax-XMLHttpRequest 基本使用方式.md",
+    "012-RESTfulAPI/012.1-Restful-REST 與 Web API 基本概念.md",
+    "000-總覽/013-AJAX-總覽.md",
+    "012-RESTfulAPI/012.10-Restful-版本控制與 API 管理.md",
+    "000-總覽/012-RESTfulAPI-總覽.md",
+    "012-RESTfulAPI/012.9-Restful-跨來源請求（CORS）處理.md",
+    "012-RESTfulAPI/012.8-Restful-授權與驗證（JWT）.md",
+    "012-RESTfulAPI/012.7-Restful-錯誤處理與回應格式.md",
+    "012-RESTfulAPI/012.6-Restful-DTO 與模型綁定.md",
+    "012-RESTfulAPI/012.5-Restful-CRUD 操作實作.md",
+    "012-RESTfulAPI/012.4-Restful-ASP.NET Core 建立 API 專案.md",
+    "012-RESTfulAPI/012.3-Restful-URI 命名規範與路由設計.md",
+    "012-RESTfulAPI/012.2-Restful-HTTP 動詞與資源設計.md",
     "011-CoreMVC/011.3-CoreMVC-模型設計與資料綁定 (Model).md",
-    "011-CoreMVC/011.4-CoreMVC-視圖與 Razor 語法 (View).md",
-    "011-CoreMVC/011.1.a-CoreMVC-舊版MVC框架介紹與專案結構.md",
+    "011-CoreMVC/011.19-CoreMVC-進階架構模式簡介.md",
+    "011-CoreMVC/011.2-CoreMVC-路由與控制器 (Controller).md",
     "img/Pasted image 20250710095555.jpg",
     "img/aspnet-core-mvc-basic.jpg",
     "img/aspnet-core-mvc-basic 1.jpg",

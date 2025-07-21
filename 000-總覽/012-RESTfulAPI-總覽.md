@@ -3,7 +3,7 @@ title: 🌐 RESTful API 總覽
 tags:
   - RESTful
   - WebAPI
-  - ASP.NET Core
+  - ASP-NET Core
   - CSharp
   - 後端開發
 aliases:
