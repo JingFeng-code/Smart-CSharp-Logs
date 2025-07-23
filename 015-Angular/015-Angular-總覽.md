@@ -28,13 +28,18 @@ summary: 本筆記整理 Angular 框架的核心概念、架構、元件開發�
 - [[015.8-Angular-狀態管理(簡介與 NgRx 基本)]]
 - [[015.9-Angular-測試與除錯技巧]]
 - [[015.10-Angular-最佳實務與效能優化]]
+- [[015.11-Angular-模組化與懶載入設計]]
+- [[015.12-Angular-國際化(i18n)與多語系處理]]
+- [[015.13-Angular-身份驗證(Authentication)與授權(Authorization)]]
+- [[015.14-Angular-與 ASP.NET Core API 串接整合]]
+- [[015.15-Angular-建構與部署流程]]
 
 ---
 
 ## 🔁 延伸閱讀
 
 - [[008-JS-總覽]]
-- [[009-jQuery-總覽]]
+- [[009-JQBS-總覽]]
 - [[011-CoreMVC-總覽]]
-- [[012-Restful-總覽]]
-- [[013-AI應用-總覽]]
+- [[012-RESTfulAPI-總覽]]
+- [[014-AI應用-總覽]]
