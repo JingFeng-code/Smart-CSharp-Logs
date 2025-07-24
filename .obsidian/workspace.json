@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2bd336f5ac1fb1ca",
+        "id": "a8f397ca292d175a",
         "type": "tabs",
         "children": [
           {
-            "id": "f856198d60a58ebb",
+            "id": "7d54cf63d2f00be9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "017-TypeScript/017-TypeScript 總覽.md",
+                "file": "000-總覽/000-總覽.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "017-TypeScript 總覽"
+              "title": "000-總覽"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "status",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,36 +179,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f856198d60a58ebb",
+  "active": "7d54cf63d2f00be9",
   "lastOpenFiles": [
-    "016-RxJS/016-RxJS 總覽.md",
-    "017-TypeScript/017-TypeScript 總覽.md",
-    "017-TypeScript",
-    "016-RxJS/016.1-RxJS-什麼是 RxJS？.md",
-    "000-總覽/013-AJAX-總覽.md",
-    "016-RxJS",
-    "000-總覽/015-Angular-總覽.md",
-    "015-Angular/015.1-Angular-框架介紹與開發環境設定.md",
-    "000-總覽/000.1-全端開發學習地圖.md",
+    "015-Angular/015.16-Angular-專案結構與模組設計建議.md",
+    "015.18-Angular-常見錯誤與除錯技巧總覽.md",
+    "015-Angular/015.17-Angular-效能分析與錯誤追蹤工具.md",
     "000-總覽/000-總覽.md",
-    "000-總覽/001-CSharp-基礎語法總覽.md",
-    "013-AJAX/013.4-Ajax-jQuery AJAX 整合用法.md",
-    "013-AJAX/013.3-Ajax-Fetch API 現代寫法.md",
-    "013-AJAX/013.1-Ajax-什麼是 AJAX？.md",
-    "900-開發工具與環境/900-開發工具與環境總覽.md",
-    "900-開發工具與環境/902.5-Docker-網路配置與容器溝通.md",
-    "900-開發工具與環境/902.6-Docker-部署實戰與 AI 整合應用.md",
-    "900-開發工具與環境/902.7-Docker-常見錯誤與除錯技巧.md",
-    "900-開發工具與環境/902-Docker-總覽.md",
-    "900-開發工具與環境/902.4-Docker-資料持久化與 Volume 管理.md",
-    "900-開發工具與環境/902.3-VSCode-Remote Container 建置與應用.md",
-    "900-開發工具與環境/901.5-Git-遠端操作與 SSH 設定.md",
-    "900-開發工具與環境/902.2-docker-compose-進階用法.md",
-    "900-開發工具與環境/902.1-Dockerfile-語法與最佳實務.md",
-    "900-開發工具與環境/901-Git-總覽.md",
-    "007-LINQ/007.9-LINQ-異步查詢.md",
-    "009-JQ、BS、SA2/009.3.a-SweetAlert2-基本使用方式.md",
-    "013-AJAX/013.10-Ajax-實戰案例整合.md",
+    "014-AI應用/014.30-AI應用-企業導入 AI 流程與專案管理.md",
+    "014-AI應用/014.29-AI應用-AI 模型與向量資料庫整合應用（如：Pinecone-Qdrant）.md",
+    "013-AJAX/013.12-Ajax-結合 SignalR 即時推播應用.md",
+    "014-AI應用/014.11-AI應用-RAG 與知識檢索強化 LLM 應用.md",
+    "013-AJAX/013.11-Ajax-非同步流程中的 UX 最佳實踐.md",
+    "012-RESTfulAPI/012.11-Restful-OpenAPI (Swagger) 文件整合.md",
+    "012-RESTfulAPI/012.12-Restful-最佳實踐與 RESTful API 設計準則.md",
+    "012-RESTfulAPI/012.2-Restful-HTTP 動詞與資源設計.md",
+    "004-ADO.NET/004.7-ADO.NET-常見錯誤與例外處理.md",
+    "004-ADO.NET/004.6-ADO.NET-連線池與效能調校.md",
+    "002-CSharp物件導向設計/002.14-CSharp-OOP-記憶體管理與 GC（Garbage Collection）.md",
+    "002-CSharp物件導向設計/002.12-CSharp-OOP-靜態類別與靜態成員.md",
+    "002-CSharp物件導向設計/002.13-CSharp-OOP-擴充方法（Extension Methods）.md",
+    "000-總覽/000.1-全端開發學習地圖.md",
+    "001-CSharp基礎語法/001.1-CSharp-變數與型別.md",
+    "001-CSharp基礎語法/001.7-CSharp-陣列與集合.md",
+    "001-CSharp基礎語法/001.12-CSharp-非同步與 Task 並行處理.md",
+    "001-CSharp基礎語法/001.11-CSharp-非同步程式設計（async_await）.md",
+    "001-CSharp基礎語法/001.8-CSharp-方法與參數.md",
+    "015-Angular/015.15-Angular-建構與部署流程.md",
+    "014-AI應用/014.28-AI應用-串接 AI 模型的費用估算與資源控管.md",
+    "001.11-CSharp-非同步程式設計（async/await）.md",
+    "001.11-CSharp-非同步程式設計（async",
+    "017-TypeScript",
+    "016-RxJS",
     "img/Pasted image 20250710095555.jpg",
     "img/aspnet-core-mvc-basic.jpg",
     "img/aspnet-core-mvc-basic 1.jpg",
@@ -220,7 +221,6 @@
     "008-JavaScript/03_陣列、物件與標準內建物件",
     "008-JavaScript/02_函式與邏輯結構",
     "008-JavaScript/01_語法基礎",
-    "015-Angular",
     "img/圖片.webp"
   ]
 }
