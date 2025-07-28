@@ -11,14 +11,14 @@
             "id": "7d54cf63d2f00be9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "000-總覽/000-總覽.md",
-                "mode": "source",
-                "source": false
+                "aFile": "000-總覽/000-總覽.md",
+                "bFile": "000-總覽/000-總覽.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "000-總覽"
+              "icon": "diff",
+              "title": "Diff: 000-總覽"
             }
           }
         ]
@@ -179,34 +179,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d54cf63d2f00be9",
+  "active": "a6219104f8666dca",
   "lastOpenFiles": [
+    "013-AJAX/013.6-Ajax-表單送出與非同步驗證.md",
+    "013-AJAX/013.5-Ajax-處理 JSON 與回傳資料.md",
+    "013-AJAX/013.4-Ajax-jQuery AJAX 整合用法.md",
+    "013-AJAX/013.2-Ajax-XMLHttpRequest 基本使用方式.md",
+    "013-AJAX/013.3-Ajax-Fetch API 現代寫法.md",
+    "013-AJAX/013.11-Ajax-非同步流程中的 UX 最佳實踐.md",
+    "013-AJAX/013.1-Ajax-什麼是 AJAX？.md",
+    "900-開發工具與環境/901.3-Git-分支與合併.md",
+    "900-開發工具與環境/901.5-Git-遠端操作與 SSH 設定.md",
+    "900-開發工具與環境/901.4-Git-常見錯誤與除錯.md",
+    "900-開發工具與環境/901.2-Git-使用者設定與初始化.md",
+    "900-開發工具與環境/901.1-Git-基本指令.md",
+    "900-開發工具與環境/901-Git-總覽.md",
+    "000-總覽/000-總覽.md",
     "015-Angular/015.16-Angular-專案結構與模組設計建議.md",
     "015.18-Angular-常見錯誤與除錯技巧總覽.md",
     "015-Angular/015.17-Angular-效能分析與錯誤追蹤工具.md",
-    "000-總覽/000-總覽.md",
     "014-AI應用/014.30-AI應用-企業導入 AI 流程與專案管理.md",
     "014-AI應用/014.29-AI應用-AI 模型與向量資料庫整合應用（如：Pinecone-Qdrant）.md",
     "013-AJAX/013.12-Ajax-結合 SignalR 即時推播應用.md",
     "014-AI應用/014.11-AI應用-RAG 與知識檢索強化 LLM 應用.md",
-    "013-AJAX/013.11-Ajax-非同步流程中的 UX 最佳實踐.md",
     "012-RESTfulAPI/012.11-Restful-OpenAPI (Swagger) 文件整合.md",
     "012-RESTfulAPI/012.12-Restful-最佳實踐與 RESTful API 設計準則.md",
     "012-RESTfulAPI/012.2-Restful-HTTP 動詞與資源設計.md",
     "004-ADO.NET/004.7-ADO.NET-常見錯誤與例外處理.md",
     "004-ADO.NET/004.6-ADO.NET-連線池與效能調校.md",
-    "002-CSharp物件導向設計/002.14-CSharp-OOP-記憶體管理與 GC（Garbage Collection）.md",
-    "002-CSharp物件導向設計/002.12-CSharp-OOP-靜態類別與靜態成員.md",
-    "002-CSharp物件導向設計/002.13-CSharp-OOP-擴充方法（Extension Methods）.md",
-    "000-總覽/000.1-全端開發學習地圖.md",
-    "001-CSharp基礎語法/001.1-CSharp-變數與型別.md",
-    "001-CSharp基礎語法/001.7-CSharp-陣列與集合.md",
-    "001-CSharp基礎語法/001.12-CSharp-非同步與 Task 並行處理.md",
-    "001-CSharp基礎語法/001.11-CSharp-非同步程式設計（async_await）.md",
-    "001-CSharp基礎語法/001.8-CSharp-方法與參數.md",
-    "015-Angular/015.15-Angular-建構與部署流程.md",
-    "014-AI應用/014.28-AI應用-串接 AI 模型的費用估算與資源控管.md",
-    "001.11-CSharp-非同步程式設計（async/await）.md",
     "001.11-CSharp-非同步程式設計（async",
     "017-TypeScript",
     "016-RxJS",
